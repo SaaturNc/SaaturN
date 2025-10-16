@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Oliveira+Terto;I'm+19+years+old;I'm+from+Iperó-SP,+Brazil;I'm+studying+I.T+Management+at+Fatec+Tatui;Be+Welcome!+XD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+Eduardo+Barreto;I'm+19+years+old;I'm+from+Tatuí-SP,+Brazil;I'm+studying+I.T+Management+at+Fatec+Tatui;Be+Welcome!+XD)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Lxquetaas&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Mello github stats" /> 
@@ -43,9 +43,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=vscode)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 
-
-### Other Knowledge:
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)
 
 </div>
   
