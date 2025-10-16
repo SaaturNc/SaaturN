@@ -41,7 +41,9 @@
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 
-
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Lxquetaas-dev&color=D83A7C" alt="Profile views" />
+</div>
 
  
 <!-- <p align="center"><b>Visitors Count</b></p>  
