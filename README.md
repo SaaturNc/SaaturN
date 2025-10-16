@@ -45,8 +45,11 @@
     <img src="https://komarev.com/ghpvc/?username=Lxquetaas-dev&color=D83A7C" alt="Profile views" />
 </div>
 
- 
-<!-- <p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Diogo-Mello}/count.svg" /></p> -->
                                                                                                                                                                                                 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lxquetaas/Lxquetaas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lxquetaas/Lxquetaas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lxquetaas/Lxquetaas/output/pacman-contribution-graph.svg">
+</picture>
