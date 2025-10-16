@@ -9,7 +9,7 @@
 
 <div align="center">  
   <a href="https://instagram.com/lucas_terto10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/diogomellodacrus/" target="_brank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.linkedin.com/in/lucasoterto/" target="_brank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
